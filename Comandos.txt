@@ -1,0 +1,15 @@
+git init		-- Inicializar la carpeta del proyecto en git
+git status		-- Estado actual de los archivos dentro de la carpeta del proyecto
+git add "archivo"	-- Agregar archivo al working area - area de trabajo
+git add .		-- Agrega todos los archivos al working area - area de trabajo
+git commit -m		-- Crear un punto de control del proyecto
+git branch		-- Consultar en que rama estoy ubicado dentro de git
+git branch "rama"	-- Crear una version alterna del proyecto sin afectar el principal
+git checkout "rama"	-- Pasarme a esa rama
+git log			-- Ver puntos de control del proyecto 
+git clone link		-- Clonar y descargar los archivos de un repositrio en github
+
+
+
+
+
